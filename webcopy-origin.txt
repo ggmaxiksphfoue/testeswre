@@ -1,0 +1,232 @@
+Uri: https://cdn.jsdelivr.net/npm/sweetalert2@11
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\npm\sweetalert2@11-1
+Content Type: application/javascript
+
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\scripts\utms\latest-1.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&amp;display=swap
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\icon-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/materialicons/v143/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\s\materialicons\v143\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\s\poppins\v22\pxiByp8kv8JHgFVrLEj6V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\s\poppins\v22\pxiByp8kv8JHgFVrLGT9V1s-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\s\poppins\v22\pxiEyp8kv8JHgFVrFJA-1.ttf
+Content Type: font/ttf
+
+Uri: https://temperinhodavovo.site/inicio/
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\index-1.htm
+Content Type: text/html
+
+Uri: https://temperinhodavovo.site/inicio/css/delivry.css
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\css\delivry-1.css
+Content Type: text/css
+
+Uri: https://temperinhodavovo.site/inicio/images/fundo2.png
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\fundo2-1.png
+Content Type: image/png
+
+Uri: https://temperinhodavovo.site/inicio/images/marmita1.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\marmita1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/Marmita2.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\Marmita2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/marmita3.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\marmita3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/marmita5.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\marmita5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/marmita6.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\marmita6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/marmita8.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\marmita8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/marmita9.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\marmita9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/relato1.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\relato1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/relato10.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\relato10-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/relato11.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\relato11-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/relato12.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\relato12-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/relato2.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\relato2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/relato3.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\relato3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/relato4.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\relato4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/relato5.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\relato5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/relato6.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\relato6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/relato7.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\relato7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/relato8.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\relato8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/relato9.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\relato9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/images/vovo.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\images\vovo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/index.html
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\index-1.html
+Content Type: text/html
+
+Uri: https://temperinhodavovo.site/inicio/js/all.js
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\js\all-1.js
+Content Type: application/x-javascript
+
+Uri: https://temperinhodavovo.site/inicio/js/delivry.js
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\js\delivry-1.js
+Content Type: application/x-javascript
+
+Uri: https://temperinhodavovo.site/inicio/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\js\jquery.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://temperinhodavovo.site/inicio/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\js\sweetalert.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/css/delivry.css
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\css\delivry-1.css
+Content Type: text/css
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/images/marmita1.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\images\marmita1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/images/marmita2.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\images\marmita2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/images/marmita3.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\images\marmita3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/images/marmita6.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\images\marmita6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/images/marmita7.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\images\marmita7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/images/marmita8.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\images\marmita8-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/images/marmita9.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\images\marmita9-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/images/vovo.jpg
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\images\vovo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/js/all.js
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\js\all-1.js
+Content Type: application/x-javascript
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/js/deliveryProduto.js
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\js\deliveryProduto-1.js
+Content Type: application/x-javascript
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/js/jquery-mask.js
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\js\jquery-mask-1.js
+Content Type: application/x-javascript
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/js/jquery.js
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\js\jquery-1.js
+Content Type: application/x-javascript
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\js\sweetalert.min-1.js
+Content Type: application/x-javascript
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/marmita6.html
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\marmita6-1.html
+Content Type: text/html
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/marmita7.html
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\marmita7-1.html
+Content Type: text/html
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/marmita8.html
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\marmita8-1.html
+Content Type: text/html
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/marmita9.html
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\marmita9-1.html
+Content Type: text/html
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/pague-1-leve-2-marmita11.html
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\pague-1-leve-2-marmita11-1.html
+Content Type: text/html
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/pague-1-leve-2-marmita2.html
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\pague-1-leve-2-marmita2-1.html
+Content Type: text/html
+
+Uri: https://temperinhodavovo.site/inicio/produtos/marmita/pague-1-leve-2-marmita3.html
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\inicio\produtos\marmita\pague-1-leve-2-marmita3-1.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/tr?id=633539469534186&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\temperinhodavovo.site\tr-1
+Content Type: text/plain
+
